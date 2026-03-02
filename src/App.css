@@ -1,0 +1,4 @@
+/* App-level layout resets — all design tokens are in index.css */
+* {
+  box-sizing: border-box;
+}
